@@ -4,8 +4,4 @@ applications:
     buildpacks:
       - staticfile_buildpack
     random-route: true
-     - name: welcome1
-    memory: 32M
-    buildpacks:
-      - staticfile_buildpack
-    random-route: true
+     - name: welcome2
