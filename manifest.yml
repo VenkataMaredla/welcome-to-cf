@@ -4,4 +4,3 @@ applications:
     buildpacks:
       - staticfile_buildpack
     random-route: true
-     - name: welcome2
