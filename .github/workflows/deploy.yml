@@ -1,4 +1,4 @@
-name: cfDeploy
+name: Deploy
 on:
   push:
     branches: [master]
